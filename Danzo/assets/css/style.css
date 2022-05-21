@@ -1,0 +1,28 @@
+body{
+    overflow-x: hidden;
+}
+.img{
+margin-left: 200px;
+}
+.col-sm-8{
+    margin-top: 140px;
+    font-size: 20px;
+}
+
+h3{
+margin: 0%;
+padding: 0%;
+}
+.land-bg{
+    margin-top: 400px;
+}
+.land-bg-1{
+    margin-left: 270px;
+}
+.font-align{
+    font-size: 20px;
+}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+}
